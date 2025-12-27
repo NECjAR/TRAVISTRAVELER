@@ -28,7 +28,7 @@ See www.necjar.com/headheldhigh for details.
 
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Head_Held_High)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Travis_Traveler)._
 
 ## Release History
 
